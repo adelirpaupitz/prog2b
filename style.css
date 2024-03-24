@@ -1,3 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.biblia{
+    width: 20%;
+}
+
+.cabecalho-versos{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+
 header{
 background-color: blue;
 color:white
